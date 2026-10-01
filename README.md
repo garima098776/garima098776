@@ -51,6 +51,88 @@ Hi! I'm Garima Singh, a Computer Science & Engineering student and an AI & Data 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
+## 🛠️ Tech Stack
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🤖 AI & Data Science
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+
+### 📊 Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+
+## 🚀 Featured Project
+
+### 🎥 VideoRAG — Educational Video Understanding
+
+> **Timestamp-Grounded Metadata RAG System for Educational Video Understanding**
+
+VideoRAG is an AI-powered system designed to understand educational videos and retrieve relevant information from them.
+
+### ✨ Key Features
+
+- 🎯 **Timestamp-Grounded Retrieval** — Finds relevant information with video timestamps
+- 🧠 **LLM-Powered Answers** — Generates contextually relevant responses
+- 🔎 **Semantic Search** — Retrieves information based on meaning
+- 📚 **RAG Architecture** — Combines retrieval with language model generation
+- 🧩 **Metadata-Based Retrieval** — Uses video metadata to improve retrieval
+- ⚡ **Vector Search** — Improves relevance and precision of retrieved content
+
+### 🛠️ Technologies Used
+
+`Python` `LLMs` `RAG` `Vector Databases` `Semantic Embeddings`
+
+### 💡 What It Solves
+
+Instead of watching an entire educational video, users can ask questions and retrieve relevant information from the video along with its corresponding timestamp.
+
+## 🏆 My Certifications
+
+<table>
+<tr>
+
+<td align="center">
+<img src="./certificates/ai-data-skills.png" width="280px">
+<br><br>
+<b>AI and Data Skills Internship</b>
+<br>
+YBI Foundation
+</td>
+
+<td align="center">
+<img src="./certificates/machine-learning.png" width="280px">
+<br><br>
+<b>Advanced Supervised Machine Learning Internship</b>
+<br>
+YBI Foundation
+</td>
+
+<td align="center">
+<img src="./certificates/dark-patterns.png" width="280px">
+<br><br>
+<b>Dark Patterns Buster Hackathon 2023</b>
+<br>
+IIT BHU
+</td>
+
+</tr>
+</table>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=garima098776&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=garima098776&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=garima098776&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=garima098776&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=garima098776&theme=default&hide_border=false)<br/>
